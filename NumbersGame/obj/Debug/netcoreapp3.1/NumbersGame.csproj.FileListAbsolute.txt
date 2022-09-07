@@ -1,0 +1,14 @@
+C:\Users\maxda\source\repos\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.exe
+C:\Users\maxda\source\repos\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.deps.json
+C:\Users\maxda\source\repos\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.json
+C:\Users\maxda\source\repos\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.dev.json
+C:\Users\maxda\source\repos\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.dll
+C:\Users\maxda\source\repos\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.pdb
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfo.cs
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.dll
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.pdb
+C:\Users\maxda\source\repos\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.genruntimeconfig.cache
